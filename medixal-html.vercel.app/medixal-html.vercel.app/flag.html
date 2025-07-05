@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+#modal__language-popup {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-dialog {
+  background: #fff;
+  border-radius: 10px;
+  width: 400px;
+  padding: 20px;
+  animation: fadeIn 0.3s ease;
+}
+
+.modal__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal__close {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.language-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.lang-item {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+  border-radius: 6px;
+  transition: 0.2s;
+}
+.lang-item:hover {
+  background-color: #f0f0f0;
+}
+
+    </style>
+</head>
+<body>
+    <!-- Language Switcher Button -->
+<div class="cs_language_dropdown custom-dropdown">
+  <button onclick="openLangModal()">
+    <span class="fi fi-gb"></span> EN <span class="arrow-down">&#9662;</span>
+  </button>
+</div>
+
+<div>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio sapiente blanditiis eos dignissimos est voluptates incidunt minima eum, obcaecati quae, optio consectetur amet? Quibusdam similique tempora ab tempore. Velit, <mollitia class="lorem200"></mollitia></p>
+<h1 data-i18n="headline">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid dolore provident deleniti est? Iste rem corporis, expedita est maiores sunt, cum fugiat harum nam dolores assumenda? Fugit alias sint, magni unde quae quibusdam enim itaque architecto temporibus officiis inventore dolores blanditiis? Sint quae excepturi omnis voluptate doloremque. A porro eos corrupti debitis, quam esse tenetur, molestias similique odit voluptatum corporis beatae ipsam eum possimus quasi, eius soluta quos veritatis suscipit? Recusandae harum dolore autem ducimus reiciendis quasi labore eveniet impedit exercitationem, soluta aliquid vero dolorum, consequatur quibusdam suscipit id doloribus velit rem fuga quaerat sint inventore ratione? Quisquam, voluptates sint.</h1>
+<p data-i18n="welcome"></p>
+<button data-i18n="start"></button>
+
+</div>
+
+<!-- Language Modal -->
+<div class="modal" id="modal__language-popup">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal__header">
+        <h4 class="modal__header-title">Select Language</h4>
+        <button class="modal__close" onclick="closeLangModal()">×</button>
+      </div>
+      <div class="modal__body">
+        <div class="language-grid">
+          <div class="lang-item" onclick="changeLanguage('en')">
+            <img src="flags/en.png" width="32" /> English
+          </div>
+          <div class="lang-item" onclick="changeLanguage('zh')">
+            <img src="flags/zh.png" width="32" /> 中文
+          </div>
+          <!-- Add more here -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function openLangModal() {
+  document.getElementById("modal__language-popup").style.display = "flex";
+}
+
+function closeLangModal() {
+  document.getElementById("modal__language-popup").style.display = "none";
+}
+
+function changeLanguage(lang) {
+  localStorage.setItem("lang", lang);
+  loadLanguage(lang);
+  closeLangModal();
+}
+
+function loadLanguage(lang) {
+  fetch(`/lang/${lang}.json`)
+    .then(response => response.json())
+    .then(translations => {
+      document.querySelectorAll("[data-i18n]").forEach(elem => {
+        const key = elem.getAttribute("data-i18n");
+        if (translations[key]) {
+          elem.textContent = translations[key];
+        }
+      });
+    });
+}
+
+// Load saved language
+document.addEventListener("DOMContentLoaded", () => {
+  const lang = localStorage.getItem("lang") || "en";
+  loadLanguage(lang);
+});
+</script>
+
+
+</body>
+</html>

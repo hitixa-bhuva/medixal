@@ -1,0 +1,1104 @@
+Uri: https://medixal-html.vercel.app/?storefront=envato-elements
+File Name: D:\medixal-html.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/about.html
+File Name: D:\medixal-html.vercel.app\about.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/appointment.html
+File Name: D:\medixal-html.vercel.app\appointment.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/assets/css/animate.css
+File Name: D:\medixal-html.vercel.app\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/bootstrap.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/fontawesome.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/jquery-timepicker.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\jquery-timepicker.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/jquery-ui.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/light-gallerr.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\light-gallerr.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/odometer.css
+File Name: D:\medixal-html.vercel.app\assets\css\odometer.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/select2.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\select2.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/slick.min.css
+File Name: D:\medixal-html.vercel.app\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/css/style.css
+File Name: D:\medixal-html.vercel.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-brands-400.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-brands-400.woff2
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-regular-400.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-regular-400.woff2
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-solid-900.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-solid-900.woff2
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-v4compatibility.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/fa-v4compatibility.woff2
+File Name: D:\medixal-html.vercel.app\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://medixal-html.vercel.app/assets/fonts/Jost/Jost-VariableFont_wght.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\Jost\Jost-VariableFont_wght.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/lg.eot?
+File Name: D:\medixal-html.vercel.app\assets\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://medixal-html.vercel.app/assets/fonts/lg.eot?n1z373
+File Name: D:\medixal-html.vercel.app\assets\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://medixal-html.vercel.app/assets/fonts/lg.svg?n1z373
+File Name: D:\medixal-html.vercel.app\assets\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/fonts/lg.ttf?n1z373
+File Name: D:\medixal-html.vercel.app\assets\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/lg.woff?n1z373
+File Name: D:\medixal-html.vercel.app\assets\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://medixal-html.vercel.app/assets/fonts/Marcellus/Marcellus-Regular.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\Marcellus\Marcellus-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/Roboto/Roboto-Bold.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\Roboto\Roboto-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/Roboto/Roboto-Medium.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\Roboto\Roboto-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/fonts/Roboto/Roboto-Regular.ttf
+File Name: D:\medixal-html.vercel.app\assets\fonts\Roboto\Roboto-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://medixal-html.vercel.app/assets/img/about_1.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\about_1.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_2.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\about_2.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\about_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\about_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_5.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\about_5.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_6.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\about_6.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_7.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\about_7.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_8.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\about_8.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/about_shape_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\about_shape_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/about_shape_4.svg
+File Name: D:\medixal-html.vercel.app\assets\img\about_shape_4.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/about_shape_5.png
+File Name: D:\medixal-html.vercel.app\assets\img\about_shape_5.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/about_shape_8.svg
+File Name: D:\medixal-html.vercel.app\assets\img\about_shape_8.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/arrow_shape.svg
+File Name: D:\medixal-html.vercel.app\assets\img\arrow_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/avatar_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\avatar_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/avatar_2.png
+File Name: D:\medixal-html.vercel.app\assets\img\avatar_2.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/avatar_3.png
+File Name: D:\medixal-html.vercel.app\assets\img\avatar_3.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/avatar_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\avatar_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/avatar_5.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\avatar_5.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_2.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_2.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_3.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_3.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_5.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_5.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_6.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_6.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_7.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_7.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_8.png
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_8.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/card_img_9.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\card_img_9.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_5.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_5.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_6.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_6.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_details_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_details_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_details_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_details_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/casestydy_details_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\casestydy_details_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/demo/1_main-home.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\demo\1_main-home.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/demo/2_dental.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\demo\2_dental.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/demo/3_eye-care.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\demo\3_eye-care.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/demo/4_rehabilatations-center.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\demo\4_rehabilatations-center.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/demo/5_physiotherepy_center.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\demo\5_physiotherepy_center.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/demo/6_psychology.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\demo\6_psychology.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/department_details_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\department_details_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/department_details_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\department_details_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/doctor_group_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\doctor_group_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/doctor_group_2.png
+File Name: D:\medixal-html.vercel.app\assets\img\doctor_group_2.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/drag.png
+File Name: D:\medixal-html.vercel.app\assets\img\drag.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/faq_shape_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\faq_shape_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/favicon.png
+File Name: D:\medixal-html.vercel.app\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/feature_img_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\feature_img_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/footer_logo.svg
+File Name: D:\medixal-html.vercel.app\assets\img\footer_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/gallery_img_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\gallery_img_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/gallery_img_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\gallery_img_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/gallery_img_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\gallery_img_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/gallery_img_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\gallery_img_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/heartbeat.svg
+File Name: D:\medixal-html.vercel.app\assets\img\heartbeat.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/heartbeat_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\heartbeat_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_img_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\hero_img_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_img_2.png
+File Name: D:\medixal-html.vercel.app\assets\img\hero_img_2.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_img_3.png
+File Name: D:\medixal-html.vercel.app\assets\img\hero_img_3.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_img_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\hero_img_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_shape_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\hero_shape_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_shape_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\hero_shape_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_shape_3.svg
+File Name: D:\medixal-html.vercel.app\assets\img\hero_shape_3.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/hero_shape_4.svg
+File Name: D:\medixal-html.vercel.app\assets\img\hero_shape_4.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/about_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\about_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/arrow_left.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\arrow_left.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/arrow_right.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\arrow_right.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/arrow_up.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\arrow_up.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/card_icon_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\card_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/card_icon_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\card_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/card_icon_3.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\card_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/coronavirus.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\coronavirus.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/counter_icon_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\counter_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/counter_icon_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\counter_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/counter_icon_3.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\counter_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_3.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_4.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_4.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_5.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_5.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_6.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_6.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/department_icon_7.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\department_icon_7.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/email.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\email.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_10.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_10.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_11.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_11.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_12.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_12.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_13.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_13.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_3.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_4.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_4.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_5.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_5.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_6.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_6.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_7.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_7.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_8.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_8.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/feature_icon_9.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\feature_icon_9.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/health-insurance.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\health-insurance.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/pin.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\pin.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/player_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\player_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/quote_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\quote_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/quote_icon_5.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\quote_icon_5.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/quote_icon_6.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\quote_icon_6.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/quote_icon_7.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\quote_icon_7.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/quote_icon_8.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\quote_icon_8.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/ring_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\ring_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/security_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\security_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_1.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_11.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_11.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_12.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_12.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_13.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_13.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_3.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_4.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_4.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_5.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_5.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_6.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_6.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_7.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_7.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_8.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_8.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/service_icon_9.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\service_icon_9.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/support_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\support_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/surgery_icon.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\surgery_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/teeth_icon_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\teeth_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/icons/telephone.svg
+File Name: D:\medixal-html.vercel.app\assets\img\icons\telephone.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/latest_post_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\latest_post_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/latest_post_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\latest_post_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/latest_post_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\latest_post_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/loading.gif
+File Name: D:\medixal-html.vercel.app\assets\img\loading.gif
+Content Type: image/gif
+
+Uri: https://medixal-html.vercel.app/assets/img/logo.svg
+File Name: D:\medixal-html.vercel.app\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/logo_black.svg
+File Name: D:\medixal-html.vercel.app\assets\img\logo_black.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/patient_group_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\patient_group_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/patient_group_2.png
+File Name: D:\medixal-html.vercel.app\assets\img\patient_group_2.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/post_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_10.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_10.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_11.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_11.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_12.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_12.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_13.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_13.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_14.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_14.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_15.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_15.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_16.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_16.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_17.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_17.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_18.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_18.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_5.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_5.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_6.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_6.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_7.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_7.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_8.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_8.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_9.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_9.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_details_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_details_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_details_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_details_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/post_details_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\post_details_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/service_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\service_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/service_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\service_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/service_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\service_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/service_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\service_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/service_details_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\service_details_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/service_img_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\service_img_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/avatar.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\avatar.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/cart-product-1.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\cart-product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/cart-product-2.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\cart-product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/cart-product-3.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\cart-product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_2.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_2.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_3.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_3.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_4.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_4.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_5.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_5.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_6.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_6.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_7.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_7.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_8.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_8.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_9.png
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_9.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_lg_1.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_lg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_lg_2.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_lg_2.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_lg_3.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_lg_3.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_lg_4.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_lg_4.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_lg_5.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_lg_5.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_sm_1.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_sm_1.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_sm_2.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_sm_2.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_sm_3.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_sm_3.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_sm_4.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_sm_4.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/shop/product_thumb_sm_5.jpg
+File Name: D:\medixal-html.vercel.app\assets\img\shop\product_thumb_sm_5.jpg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/stethoscope.svg
+File Name: D:\medixal-html.vercel.app\assets\img\stethoscope.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/stethoscope_2.svg
+File Name: D:\medixal-html.vercel.app\assets\img\stethoscope_2.svg
+Content Type: image/svg+xml
+
+Uri: https://medixal-html.vercel.app/assets/img/team_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_10.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_10.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_11.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_11.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_12.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_12.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_13.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_13.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_14.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_14.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_15.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_15.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_16.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_16.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_17.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_17.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_18.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_18.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_19.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_19.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_2.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_20.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_20.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_21.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_21.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_22.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_22.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_23.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_23.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_3.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_4.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_5.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_5.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_6.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_6.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_7.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_7.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_8.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_8.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_9.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_9.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/team_details_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\team_details_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/testimonial_thumbnail_1.jpeg
+File Name: D:\medixal-html.vercel.app\assets\img\testimonial_thumbnail_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://medixal-html.vercel.app/assets/img/text_img_1.png
+File Name: D:\medixal-html.vercel.app\assets\img\text_img_1.png
+Content Type: image/png
+
+Uri: https://medixal-html.vercel.app/assets/js/jquery-3.7.1.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/jquery-timepicker.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\jquery-timepicker.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/jquery-ui.js
+File Name: D:\medixal-html.vercel.app\assets\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/jquery.slick.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\jquery.slick.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/light-gallery.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\light-gallery.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/main.js
+File Name: D:\medixal-html.vercel.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/odometer.js
+File Name: D:\medixal-html.vercel.app\assets\js\odometer.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/ripples.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\ripples.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/select2.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/assets/js/wow.min.js
+File Name: D:\medixal-html.vercel.app\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://medixal-html.vercel.app/before-after.html
+File Name: D:\medixal-html.vercel.app\before-after.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/blog-details.html
+File Name: D:\medixal-html.vercel.app\blog-details.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/blog-with-sidebar.html
+File Name: D:\medixal-html.vercel.app\blog-with-sidebar.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/blog.html
+File Name: D:\medixal-html.vercel.app\blog.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/cart.html
+File Name: D:\medixal-html.vercel.app\cart.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/case-studies-details.html
+File Name: D:\medixal-html.vercel.app\case-studies-details.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/case-studies.html
+File Name: D:\medixal-html.vercel.app\case-studies.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/checkout.html
+File Name: D:\medixal-html.vercel.app\checkout.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/contact.html
+File Name: D:\medixal-html.vercel.app\contact.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/dental.html
+File Name: D:\medixal-html.vercel.app\dental.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/department-details.html
+File Name: D:\medixal-html.vercel.app\department-details.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/department.html
+File Name: D:\medixal-html.vercel.app\department.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/doctor-details.html
+File Name: D:\medixal-html.vercel.app\doctor-details.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/doctors.html
+File Name: D:\medixal-html.vercel.app\doctors.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/eye-care.html
+File Name: D:\medixal-html.vercel.app\eye-care.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/gallery.html
+File Name: D:\medixal-html.vercel.app\gallery.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/index.html
+File Name: D:\medixal-html.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/physiotherapy.html
+File Name: D:\medixal-html.vercel.app\physiotherapy.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/pricing-plan.html
+File Name: D:\medixal-html.vercel.app\pricing-plan.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/psychology.html
+File Name: D:\medixal-html.vercel.app\psychology.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/rehabilitations.html
+File Name: D:\medixal-html.vercel.app\rehabilitations.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/service-details.html
+File Name: D:\medixal-html.vercel.app\service-details.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/services.html
+File Name: D:\medixal-html.vercel.app\services.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/shop-details.html
+File Name: D:\medixal-html.vercel.app\shop-details.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/shop.html
+File Name: D:\medixal-html.vercel.app\shop.html
+Content Type: text/html
+
+Uri: https://medixal-html.vercel.app/working-process.html
+File Name: D:\medixal-html.vercel.app\working-process.html
+Content Type: text/html
+
