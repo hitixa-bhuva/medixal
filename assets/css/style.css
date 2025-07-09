@@ -130,7 +130,7 @@ ul,
 }
 
 .cs_theme_2 {
-  --accent-color: #09bbaf;
+  --accent-color: #007BFD
 }
 
 .cs_theme_3 {
@@ -1870,8 +1870,24 @@ label {
   -webkit-transform: translateY(-3px);
   transform: translateY(-3px);
 }
+.cs_accent_light-bg{
+background-color: #09bbaf1f;
+color: #007BFD
+}
+.cs_btn.cs_style_1 .cs_btn_text{
+  color: #007BFD
+}
+.cs_btn .cs_icon path {
+  fill: #007BFD
+  /* transition: fill 0.3s ease; */
+}
+
+.cs_btn:hover .cs_icon path {
+  fill: white;
+}
 
 .cs_btn.cs_style_1 {
+  border-radius: 12px;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -1920,7 +1936,10 @@ label {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
-
+.cs_btn.cs_style_1:hover svg{
+  color: white !important;
+  z-index: 99;
+}
 .cs_player_btn.cs_style_1 {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -3717,7 +3736,7 @@ a.ui-button:active,
 }
 
 .cs_color_option_bg_2 {
-  background-color: #09bbaf;
+  background-color: #007BFD
 }
 
 .cs_color_option_bg_3 {
@@ -6468,11 +6487,11 @@ a.ui-button:active,
 }
 .cs_about.cs_style_1 .cs_about_text {
   max-width: 580px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   line-height: 1.87em;
 }
 .cs_about.cs_style_1 .cs_btn.cs_style_1 {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 .cs_about.cs_style_1 .cs_experience_box {
   height: 160px;
@@ -7465,7 +7484,7 @@ a.ui-button:active,
 }
 .cs_iconbox.cs_style_1:hover{
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  border: 1px solid #09bbaf;
+  border: 1px solid #007BFD
 }
 .cs_iconbox.cs_style_1 .cs_iconbox_header {
   display: -webkit-box;
@@ -8443,11 +8462,22 @@ a.ui-button:active,
   align-items: center;
   gap: 10px;
 }
+.home-banner-img{
+  background-image: url(/assets/img/banner.png);
+}
+@media (max-width: 430px) {
+ .cs_hero.cs_style_1.cs_type_1 .cs_hero_overlay{
+  display: none;
+ }
+}
 .cs_post_details.cs_style_1 img {
   width: 100%;
   border-radius: inherit;
   margin-bottom: 40px;
 }
+.cs_post_details.cs_style_1 .industry-main-img{
+  height: 300px !important;
+} 
 .cs_post_details.cs_style_1 p {
   line-height: 1.87em;
   margin-bottom: 40px;

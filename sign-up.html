@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" href="assets/css/bootstrap.min.css">
       <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/whatsapp.css">
 
     <title>Create Business Account</title>
     <style>
@@ -346,7 +347,10 @@
 <div id="pricingModal" class="modal" style="display: none;">
   <div class="modal-content">
     <span class="close">&times;</span>
-    <section class="cs_pricing_section cs_hide_before_after">
+    <div id="modalBody"></div>
+  </div>
+</div>
+<section class="cs_pricing_section cs_hide_before_after" style="display: none;" >
   <div class="container">
     <div class="cs_section_heading cs_style_1 cs_text_center">
       <p class="cs_section_subtitle cs_accent_color cs_fs_18 cs_semibold cs_heading_font">Pricing plan</p>
@@ -445,28 +449,24 @@
       </div>
     </div>
   </div>
-</section>                     
-    <div id="modalBody"></div>
-  </div>
-</div>
+</section>  
 <script>
   const modal = document.getElementById("pricingModal");
   const btn = document.getElementById("createBtn");
   const span = document.querySelector(".modal .close");
   const modalBody = document.getElementById("modalBody");
-
   const pricingSection = document.querySelector(".cs_pricing_section");
 
   btn.onclick = function () {
     const clonedSection = pricingSection.cloneNode(true); // Deep clone
-    modalBody.innerHTML = ''; // Clear previous if any
-    modalBody.appendChild(clonedSection); // Add cloned version
+    modalBody.innerHTML = ''; // Clear previous content
+    modalBody.appendChild(clonedSection); // Inject cloned pricing section
     modal.style.display = "block";
   }
 
   span.onclick = function () {
     modal.style.display = "none";
-    modalBody.innerHTML = ""; // Clean on close
+    modalBody.innerHTML = "";
   }
 
   window.onclick = function (event) {

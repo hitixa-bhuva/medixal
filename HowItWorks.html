@@ -21,6 +21,7 @@
   <link rel="stylesheet" href="assets/css/jquery-timepicker.min.css">
   <link rel="stylesheet" href="assets/css/select2.min.css">
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/whatsapp.css">
   <!-- Flag Icon CDN -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/6.7.0/css/flag-icons.min.css" integrity="sha512-/tHUY0Tfb1d7NQ1GJItQq0jeAxgK6tqJqE0X6WGPnAVGu04lMiKxIL2F6EKKzz95NYmpG7r+1T86jhdfzQQKbw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -96,11 +97,11 @@
                       </li>
                       <li><a href="doctors.html">Management experience <i class="fa-solid fa-circle-chevron-right"></i></a>
                         <ul>
-                           <li>
+                           <!-- <li>
   <a href="doctors.html">
     <i class="fa-solid fa-user-gear me-2"></i> Staff Management
   </a>
-</li>
+</li> -->
 
 <li>
   <a href="doctor-details.html">
@@ -168,16 +169,20 @@
                         <!-- Column 3: By industry -->
                         <div class="col-12 col-md-8">
                           <h6 class="fw-semibold text-secondary mb-3">By industry</h6>
-                          <div>
-                                <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#BeautyWellness"><i class="fa-solid fa-spa me-2"></i>Beauty & Wellness</a></span>
+                          <div class="row">
+                                <div class="col-md-6">
+                                  <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#BeautyWellness"><i class="fa-solid fa-spa me-2"></i>Beauty & Wellness</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#SportsFitness"><i class="fa-solid fa-dumbbell me-2"></i>Sports & Fitness</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#Healthcare"><i class="fa-solid fa-stethoscope me-2"></i>Healthcare</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#ProfessionalServices"><i class="fa-solid fa-briefcase me-2"></i>Professional Services</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#PublicServices"><i class="fa-solid fa-building-columns me-2"></i>Public Services</a></span>
-                                <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#Education"><i class="fa-solid fa-graduation-cap me-2"></i>Education</a></span>
+                                </div>
+                                <div class="col-md-6">
+                                  <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#Education"><i class="fa-solid fa-graduation-cap me-2"></i>Education</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#Photographers"><i class="fa-solid fa-camera me-2"></i>Photographers</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#Retail"><i class="fa-solid fa-store me-2"></i>Retail</a></span>
                                 <span class="nav-menu-second-main-title d-block mb-2"><a href="Industries.html#EventsEntertainment"><i class="fa-solid fa-masks-theater me-2"></i>Events & Entertainment</a></span>
+                                </div>
                           </div>
                         </div>
                       </div>
@@ -186,6 +191,12 @@
                   <li><a href="HowItWorks.html">How It Work</a></li>
                   <li>
                     <a href="pricing.html">Pricing</a>
+                  </li>
+                  <li>
+                    <a href="about.html">About Us</a>
+                  </li>
+                  <li>
+                    <a href="contact.html">Contact Us</a>
                   </li>
                 </ul>
               </div>
@@ -196,8 +207,8 @@
 
   <!-- Action Buttons -->
   <div class="cs_header_buttons">
-    <a href="sign-up.html" class="custom-sign-upbtn">Sign Up</a>
-    <a href="login.html" class="cusstom-btn-style cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_bg  cs_radius_100"><span class="cs_btn_text">Login</span></a>
+    <button type="submit" class="custom-sign-upbtn" id="createBtn">Sign Up</button>
+    <a href="login.html" class="cusstom-btn-style cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_bg  cs_radius_100"><span class="cs_btn_text text-white">Login</span></a>
   </div>
 
   <!-- Language Dropdown -->
@@ -262,24 +273,15 @@
             </div>
             <p class="cs_about_text cs_heading_color"> Vendors (like salons, dentists, yoga coaches, etc.) subscribe to your service and get immediate access to their own Admin Dashboard.</p>
             
-            <a href="about.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_bg ">
-              <span class="cs_btn_text">Info More About</span>
-            </a>
+            <div  class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_light-bg ">
+                  <svg class="cs_icon mb-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512"><path fill="#ffffff" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
+              <span class="cs_btn_text">Vendors Sign Up & Start Managing Instantly!</span>
+            </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="cs_about_shape_10 position-absolute cs_accent_color">
-      <svg width="99" height="147" viewBox="0 0 99 147" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M27.8701 66.6197C28.6869 67.4359 29.7573 67.844 30.8271 67.844C31.897 67.844 32.9674 67.4359 33.7842 66.6197C35.4171 64.9862 35.4171 62.3391 33.7842 60.7062L-25.6977 1.22429C-27.3312 -0.408097 -29.9783 -0.408097 -31.6112 1.22429C-33.2442 2.8578 -33.2442 5.50486 -31.6112 7.1378L27.8701 66.6197Z" fill="currentColor"/>
-        <path d="M34.8928 104.789C39.7303 109.627 41.7273 116.567 40.1049 122.899C38.3817 129.62 40.4127 136.783 45.4058 141.593C49.1294 145.181 53.9529 146.996 58.7871 146.996C63.1101 146.996 67.4414 145.544 70.9999 142.61C75.8887 138.579 78.4382 132.615 78.0051 126.403C84.2124 126.834 90.1671 124.293 94.198 119.414C100.417 111.89 99.9972 100.89 93.2223 93.8307C88.4004 88.8075 81.213 86.7682 74.4643 88.5121C68.1611 90.1389 61.239 88.138 56.3915 83.2904L45.5775 72.4764C43.944 70.844 41.2969 70.844 39.664 72.4764C38.031 74.1099 38.031 76.757 39.664 78.3899L50.478 89.2039C57.4101 96.1355 67.404 98.9726 76.555 96.6088C80.4397 95.6058 84.4153 96.732 87.1884 99.621C90.9599 103.551 91.2069 109.905 87.7515 114.086C85.2599 117.101 81.4761 118.544 77.6332 117.954C75.4121 117.609 73.1425 118.358 71.5513 119.95C69.9596 121.541 69.2137 123.814 69.556 126.029C70.1503 129.879 68.7013 133.665 65.6796 136.157C61.4905 139.611 55.1338 139.354 51.2083 135.57C48.3366 132.803 47.2138 128.843 48.2056 124.974C50.5583 115.793 47.7233 105.793 40.8069 98.8751L-50.8618 7.20867C-52.4953 5.57628 -55.1423 5.57628 -56.7753 7.20867C-58.4082 8.84217 -58.4082 11.4892 -56.7753 13.1222L34.8928 104.789Z" fill="currentColor"/>
-      </svg>        
-    </div>
-    <div class="cs_about_shape_11 position-absolute cs_accent_color">
-      <svg width="85" height="139" viewBox="0 0 85 139" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M28.5455 3.53107C23.6785 0.0273678 17.4148 -0.770009 11.7894 1.39697C6.25319 3.5296 2.21312 8.23329 0.982025 13.9886L0.907421 14.3527C0.191923 17.942 0.599787 21.5903 2.08708 24.9037C12.0145 47.0236 8.57317 65.6571 3.93862 77.3932C1.61739 83.2693 3.35684 89.6126 8.37009 93.553C13.306 97.4327 19.7764 97.6216 24.8536 94.0348C26.0832 93.1654 31.378 88.2661 32.2536 87.332C33.3352 86.1789 34.7814 85.5483 36.3262 85.5528C37.7953 85.557 39.1564 86.1534 40.158 87.2313L86.3402 136.93C87.7303 138.426 90.0681 138.512 91.5631 137.123C93.0581 135.734 93.1431 133.396 91.7529 131.9L45.5708 82.2015C43.1593 79.6063 39.882 78.1715 36.343 78.1615C32.7811 78.1507 29.3266 79.6435 26.8644 82.2699C26.1227 83.0608 21.4023 87.3907 20.5857 87.9968C17.7418 90.0069 14.7686 89.1832 12.9361 87.7422C11.0415 86.2534 9.48938 83.4672 10.8146 80.1121C15.9717 67.0533 19.8136 46.3506 8.83107 21.8796C7.98921 20.0039 7.75 17.8455 8.15682 15.8041L8.21387 15.5297C8.92927 12.1827 11.2043 9.54583 14.4523 8.294C17.7413 7.02695 21.397 7.48896 24.2314 9.52902C34.8767 17.1922 40.3178 31.3789 38.0927 45.6718C37.486 49.5692 38.6687 53.4522 41.338 56.3247L102.385 122.02C103.776 123.516 106.113 123.603 107.608 122.214C109.103 120.825 109.188 118.487 107.798 116.991L46.7505 51.2946C45.6331 50.0921 45.1391 48.4591 45.3956 46.8131C48.0436 29.7956 41.4296 12.8067 28.5455 3.53107Z" fill="currentColor"/>
-      </svg>        
-    </div>
+  
     <div class="cs_height_120 cs_height_lg_80"></div>
   </section>
   <!-- End About Section -->
@@ -310,11 +312,10 @@
                 They define the services they offer, set availability, add staff members, and personalize their booking settings — all from one place.
 
               </p>
-              <a
-                href="about.html"
-                class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_bg cs_radius_100"
-                ><span class="cs_btn_text">Info More About</span></a
-              >
+              <div
+                class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_light-bg cs_radius_100"><span class="cs_btn_text">
+                  <svg class="me-1 mb-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512"><path fill="#ffffff" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
+                  Build Your Profile. Set Availability. Start Booking Fast</span></div>
             </div>
           </div>
           <div class="col-lg-6">
@@ -421,6 +422,7 @@
           <h2 class="cs_section_title cs_fs_48 mb-0">
             Promote Your Booking Page Anywhere
           </h2>
+          
         </div>
             <div class="cs_testimonial_content">
               <div
@@ -438,6 +440,10 @@
                   </div>
                 </div>
               </div>
+            </div>
+              <div  class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_light-bg ">
+                  <svg class="cs_icon mb-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512"><path fill="#ffffff" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
+              <span class="cs_btn_text">Promote Your Booking Page Across All Platforms! </span>
             </div>
           </div>
         </div>
@@ -457,7 +463,9 @@
               <h2 class="cs_section_title cs_fs_48 mb-0">Clients Book in  <span class="cs_accent_color">Seconds — 24/7.</span></h2>
             </div>
             <p class="cs_about_text cs_heading_color"> Customers click the link, choose a service, pick a time, and book online — without calling, messaging, or waiting for a response.</p>
-            <a href="about.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_bg "><span class="cs_btn_text">Info More About</span></a>
+            <div class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_light-bg "><span class="cs_btn_text">
+                  <svg class="cs_icon mb-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512"><path fill="#ffffff" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
+              24/7 Online Booking — No Calls, No Hassle!</span></div>
           </div>
         </div>
         <div class="col-lg-6">
@@ -493,6 +501,10 @@
             <p class="cs_about_text mt-3">
              Both the vendor and customer receive instant notifications via WhatsApp, SMS, or email — with optional reminders before appointments.   
             </p>
+            <div class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_light-bg"><span class="cs_btn_text">
+                  <svg class="cs_icon mb-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512"><path fill="#ffffff" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
+              Be Ready, Be Informed – Notifications as They Happen!</span></div>
+          </div>
           </div>
         </div>
       </div>
@@ -513,8 +525,10 @@
                   class="cs_accent_color">One Dashboard.</span></h2>
             </div>
             <p class="cs_about_text"> Vendors can view, reschedule, cancel, or follow up with clients — track appointments, earnings, and feedback easily.</p>
-            <a href="about.html" class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_bg  cs_radius_100"><span
-                class="cs_btn_text">Info More About</span></a>
+            <div  class="cs_btn cs_style_1 cs_fs_18 cs_semibold cs_accent_light-bg cs_radius_100"><span
+                class="cs_btn_text">
+                                  <svg class="cs_icon mb-2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 512 512"><path fill="#ffffff" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
+       Track Appointments, Earnings & Feedback – All in One Panel!</span></div>
           </div>
         </div>
         <div class="col-lg-6">
@@ -547,7 +561,7 @@
           <div class="cs_slide">
             <div class="cs_testimonial cs_style_3 cs_white_bg">
               <div class="cs_quote_icon position-absolute">
-                <img src="assets/img/icons/quote_icon_5.svg" alt="Quote Icon">
+                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#09bbaf" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
               </div>
               <div class="cs_avatar cs_style_1">
                 <div class="cs_avatar_icon cs_radius_50">
@@ -571,7 +585,7 @@
           <div class="cs_slide">
             <div class="cs_testimonial cs_style_3 cs_white_bg">
               <div class="cs_quote_icon position-absolute">
-                <img src="assets/img/icons/quote_icon_5.svg" alt="Quote Icon">
+                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#09bbaf" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
               </div>
               <div class="cs_avatar cs_style_1">
                 <div class="cs_avatar_icon cs_radius_50">
@@ -595,7 +609,7 @@
           <div class="cs_slide">
             <div class="cs_testimonial cs_style_3 cs_white_bg">
               <div class="cs_quote_icon position-absolute">
-                <img src="assets/img/icons/quote_icon_5.svg" alt="Quote Icon">
+                <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="#09bbaf" d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"/></svg>
               </div>
               <div class="cs_avatar cs_style_1">
                 <div class="cs_avatar_icon cs_radius_50">
@@ -636,7 +650,7 @@
   </section>
   <!-- End Testimonial Section -->
      <!-- Start Team Section -->
-  <section class="cs_slider cs_style_1 cs_slider_gap_30 cs_white_bg">
+  <!-- <section class="cs_slider cs_style_1 cs_slider_gap_30 cs_white_bg">
     <div class="cs_height_120 cs_height_lg_80"></div>
     <div class="container">
       <div class="cs_section_heading cs_style_1 wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
@@ -761,7 +775,7 @@
       </div>
     </div>
     <div class="cs_height_120 cs_height_lg_80"></div>
-  </section>
+  </section> -->
   <!-- End Team Section -->
    <section class="cs_accent_bg mt-5">
     <div class="container">
@@ -823,7 +837,56 @@
       </div>
     </div>
   </section>
-    <!-- Start Footer Section -->
+  <!-- whatsapp logo  -->
+ <div id="contactbtn" class="arcontactus-widget arcontactus-message arcu-scale right md active arcuAnimated">
+  <div class="arcontactus-message-button no-text" style="background-color: #333" onclick="redirectToWhatsApp()">
+    <div class="static">
+      <div class="img-24">
+        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+          <path fill="#fff"
+            d="M4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98c-0.001,0,0,0,0,0h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303z">
+          </path>
+          <path fill="#fff"
+            d="M4.868,43.803c-0.132,0-0.26-0.052-0.355-0.148c-0.125-0.127-0.174-0.312-0.127-0.483l2.639-9.636c-1.636-2.906-2.499-6.206-2.497-9.556C4.532,13.238,13.273,4.5,24.014,4.5c5.21,0.002,10.105,2.031,13.784,5.713c3.679,3.683,5.704,8.577,5.702,13.781c-0.004,10.741-8.746,19.48-19.486,19.48c-3.189-0.001-6.344-0.788-9.144-2.277l-9.875,2.589C4.953,43.798,4.911,43.803,4.868,43.803z">
+          </path>
+          <path fill="#cfd8dc"
+            d="M24.014,5c5.079,0.002,9.845,1.979,13.43,5.566c3.584,3.588,5.558,8.356,5.556,13.428c-0.004,10.465-8.522,18.98-18.986,18.98h-0.008c-3.177-0.001-6.3-0.798-9.073-2.311L4.868,43.303l2.694-9.835C5.9,30.59,5.026,27.324,5.027,23.979C5.032,13.514,13.548,5,24.014,5 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974C24.014,42.974,24.014,42.974,24.014,42.974 M24.014,4C24.014,4,24.014,4,24.014,4C12.998,4,4.032,12.962,4.027,23.979c-0.001,3.367,0.849,6.685,2.461,9.622l-2.585,9.439c-0.094,0.345,0.002,0.713,0.254,0.967c0.19,0.192,0.447,0.297,0.711,0.297c0.085,0,0.17-0.011,0.254-0.033l9.687-2.54c2.828,1.468,5.998,2.243,9.197,2.244c11.024,0,19.99-8.963,19.995-19.98c0.002-5.339-2.075-10.359-5.848-14.135C34.378,6.083,29.357,4.002,24.014,4L24.014,4z">
+          </path>
+          <path fill="#40c351"
+            d="M35.176,12.832c-2.98-2.982-6.941-4.625-11.157-4.626c-8.704,0-15.783,7.076-15.787,15.774c-0.001,2.981,0.833,5.883,2.413,8.396l0.376,0.597l-1.595,5.821l5.973-1.566l0.577,0.342c2.422,1.438,5.2,2.198,8.032,2.199h0.006c8.698,0,15.777-7.077,15.78-15.776C39.795,19.778,38.156,15.814,35.176,12.832z">
+          </path>
+          <path fill="#fff" fill-rule="evenodd"
+            d="M19.268,16.045c-0.355-0.79-0.729-0.806-1.068-0.82c-0.277-0.012-0.593-0.011-0.909-0.011c-0.316,0-0.83,0.119-1.265,0.594c-0.435,0.475-1.661,1.622-1.661,3.956c0,2.334,1.7,4.59,1.937,4.906c0.237,0.316,3.282,5.259,8.104,7.161c4.007,1.58,4.823,1.266,5.693,1.187c0.87-0.079,2.807-1.147,3.202-2.255c0.395-1.108,0.395-2.057,0.277-2.255c-0.119-0.198-0.435-0.316-0.909-0.554s-2.807-1.385-3.242-1.543c-0.435-0.158-0.751-0.237-1.068,0.238c-0.316,0.474-1.225,1.543-1.502,1.859c-0.277,0.317-0.554,0.357-1.028,0.119c-0.474-0.238-2.002-0.738-3.815-2.354c-1.41-1.257-2.362-2.81-2.639-3.285c-0.277-0.474-0.03-0.731,0.208-0.968c0.213-0.213,0.474-0.554,0.712-0.831c0.237-0.277,0.316-0.475,0.474-0.791c0.158-0.317,0.079-0.594-0.04-0.831C20.612,19.329,19.69,16.983,19.268,16.045z"
+            clip-rule="evenodd"></path>
+        </svg>
+      </div>
+    </div>
+    <div class="callback-state" style="color: #333">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+        <path fill="currentColor"
+          d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z">
+        </path>
+      </svg>
+    </div>
+
+    <div class="arcontactus-close">
+      <svg width="12" height="13" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g transform="translate(-4087 108)">
+          <g>
+            <path transform="translate(4087 -108)" fill="currentColor"
+              d="M 14 1.41L 12.59 0L 7 5.59L 1.41 0L 0 1.41L 5.59 7L 0 12.59L 1.41 14L 7 8.41L 12.59 14L 14 12.59L 8.41 7L 14 1.41Z">
+            </path>
+          </g>
+        </g>
+      </svg>
+    </div>
+    <div class="pulsation" style="background-color: #333"></div>
+    <div class="pulsation" style="background-color: #333"></div>
+  </div>
+</div>
+<!-- end whatsapp logo  -->
+  <!-- Start Footer Section -->
   <footer class="cs_footer cs_style_1 cs_heading_bg">
     <div class="container cs_white_color">
       <div class="cs_footer_row">
@@ -857,6 +920,10 @@
               <li><a href="Industries.html">Solutions</a></li>
               <li><a href="HowItWorks.html">How It Work</a></li>
               <li><a href="pricing.html">Pricing</a></li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="contact.html">content Us</a></li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="contact.html">content Us</a></li>
               <li><a href="PrivacyCookiePolicy.html">Privacy Policy</a></li>
             </ul>
           </div>
@@ -887,8 +954,7 @@
   <!-- Phone -->
   <li class=" cs_bold cs_phone_number">
     <div class="cs_height_20 cs_height_lg_20"></div>
-    <i class="fa-solid fa-phone me-2"></i>
-    <a href="tel:+12126215896">+1 (212) 621-5896</a>
+<i class="fa-brands fa-whatsapp me-2"></i>    <a href="tel:+12126215896">+1 (212) 621-5896</a>
   </li>
 
   <!-- Email -->
@@ -905,7 +971,7 @@
     <div class="cs_footer_bottom cs_white_color">
       <div class="container">
         <div class="cs_footer_bottom_in">
-          <p class="cs_copyright mb-0">Copyright: © All Rights Reserved by abc Developed by abc</p>
+          <p class="cs_copyright mb-0">Copyright: © All Rights Developed by <a href="https://metacoresolutions.com/">Metacore it Solution</a></p>
           <ul class="cs_footer_widget_menu">
             <li><a href="PrivacyCookiePolicy.html">Privacy &amp; Cookie Policy</a></li>
           </ul>
@@ -923,6 +989,115 @@
   </span>
   <!-- End Scroll Up Button -->
 
+<!-- pricing model -->
+    <!-- Modal Wrapper -->
+<div id="pricingModal" class="modal" style="display: none;">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div id="modalBody"></div>
+  </div>
+</div>
+<section class="cs_pricing_section cs_hide_before_after" style="display: none;">
+  <div class="container">
+    <div class="cs_section_heading cs_style_1 cs_text_center">
+      <p class="cs_section_subtitle cs_accent_color cs_fs_18 cs_semibold cs_heading_font">Pricing plan</p>
+      <h2 class="cs_section_title cs_fs_48 mb-0">pricing plan to your Medical <br>Health Sevices</h2>
+    </div>
+    <div class="cs_height_32 cs_height_lg_30"></div>
+    <div class="cs_tabs cs_style_1">
+      <ul class="cs_tab_links cs_pricing_control cs_center cs_mp0">
+        <li class="active"><a href="#cs_monthly">Monthly</a><span class="cs_switch"></span></li>
+        <li><a href="#cs_yearly">Yearly</a></li>
+      </ul>
+      <div class="cs_height_32 cs_height_lg_30"></div>
+      <div class="cs_tab_body">
+        <div class="cs_tab active" id="cs_monthly">
+          <div class="row cs_row_gap_30 cs_gap_y_30">
+            <div class="col-lg-4">
+              <div class="cs_pricing_table cs_style_1 cs_type_4 cs_radius_10">
+                <div class="cs_pricing_headedr">
+                  <h3 class="cs_pricing_head_title cs_fs_24 mb-0">Premium plan</h3>
+                  <a href="contact.html" class="cs_pricing_icon cs_center cs_heading_bg cs_radius_50 cs_white_color">
+                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                  </a>
+                </div>
+                <div class="cs_pricing_plan">
+                  <h3 class="cs_price_value"><sup>$</sup><span class="cs_fs_64">199</span><sub>USD</sub></h3>
+                </div>
+                <div class="cs_pricing_feature">
+                  <h3 class="cs_pricing_feature_title cs_fs_32">What’s Included :</h3>
+                  <ul class="cs_pricing_feature_list cs_mp0">
+                    <li><i class="fa-solid fa-check"></i>Medical Check up</li>
+                    <li><i class="fa-solid fa-check"></i>Pathology Test Service</li>
+                    <li><i class="fa-solid fa-check"></i>X-ray , Endoscopy Test Include</li>
+                    <li><i class="fa-solid fa-check"></i> Home Care Of 07 Days</li>
+                  </ul>
+                  <a href="contact.html"
+                    class="cs_pricing_btn cs_white_bg cs_accent_color cs_semibold cs_hover_up cs_radius_100">Choose
+                    This Plan</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="cs_pricing_table cs_style_1 cs_type_4 cs_radius_10 active">
+                <div class="cs_pricing_headedr">
+                  <h3 class="cs_pricing_head_title cs_fs_24 mb-0">Basic plan</h3>
+                  <a href="contact.html" class="cs_pricing_icon cs_center cs_heading_bg cs_radius_50 cs_white_color">
+                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                  </a>
+                </div>
+                <div class="cs_pricing_plan">
+                  <h3 class="cs_price_value"><sup>$</sup><span class="cs_fs_64">149</span><sub>USD</sub></h3>
+                </div>
+                <div class="cs_pricing_feature">
+                  <h3 class="cs_pricing_feature_title cs_fs_32">What’s Included :</h3>
+                  <ul class="cs_pricing_feature_list cs_mp0">
+                    <li><i class="fa-solid fa-check"></i>Medical Check up</li>
+                    <li><i class="fa-solid fa-check"></i>Pathology Test Service</li>
+                    <li><i class="fa-solid fa-check"></i>X-ray , Endoscopy Test Include</li>
+                    <li><i class="fa-solid fa-check"></i> Home Care Of 07 Days</li>
+                  </ul>
+                  <a href="contact.html"
+                    class="cs_pricing_btn cs_white_bg cs_accent_color cs_semibold cs_hover_up cs_radius_100">Choose
+                    This Plan</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4">
+              <div class="cs_pricing_table cs_style_1 cs_type_4 cs_radius_10">
+                <div class="cs_pricing_headedr">
+                  <h3 class="cs_pricing_head_title cs_fs_24 mb-0">Enterprise Plan</h3>
+                  <a href="contact.html" class="cs_pricing_icon cs_center cs_heading_bg cs_radius_50 cs_white_color">
+                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                    <span><i class="fa-solid fa-arrow-right"></i></span>
+                  </a>
+                </div>
+                <div class="cs_pricing_plan">
+                  <h3 class="cs_price_value"><sup>$</sup><span class="cs_fs_64">125</span><sub>USD</sub></h3>
+                </div>
+                <div class="cs_pricing_feature">
+                  <h3 class="cs_pricing_feature_title cs_fs_32">What’s Included :</h3>
+                  <ul class="cs_pricing_feature_list cs_mp0">
+                    <li><i class="fa-solid fa-check"></i>Medical Check up</li>
+                    <li><i class="fa-solid fa-check"></i>Pathology Test Service</li>
+                    <li><i class="fa-solid fa-check"></i>X-ray , Endoscopy Test Include</li>
+                    <li><i class="fa-solid fa-check"></i> Home Care Of 07 Days</li>
+                  </ul>
+                  <a href="contact.html"
+                    class="cs_pricing_btn cs_white_bg cs_accent_color cs_semibold cs_hover_up cs_radius_100">Choose
+                    This Plan</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>  
+
   <!-- Script -->
   <script src="assets/js/jquery-3.7.1.min.js"></script>
   <script src="assets/js/wow.min.js"></script>
@@ -934,5 +1109,7 @@
   <script src="assets/js/select2.min.js"></script>
   <script src="assets/js/ripples.min.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/whatsapp.js"></script>
+  <script src="assets/js/pricingmodel.js"></script>
 </body>
 </html>
