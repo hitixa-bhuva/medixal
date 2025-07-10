@@ -5,12 +5,16 @@
   const modalBody = document.getElementById("modalBody");
   const pricingSection = document.querySelector(".cs_pricing_section");
 
-  btn.onclick = function () {
-    const clonedSection = pricingSection.cloneNode(true); // Deep clone
-    modalBody.innerHTML = ''; // Clear previous content
-    modalBody.appendChild(clonedSection); // Inject cloned pricing section
-    modal.style.display = "block";
-  }
+btn.onclick = function () {
+  const clonedSection = pricingSection.cloneNode(true); // Deep clone
+
+  // Remove 'display: none;' from the cloned section
+  clonedSection.style.display = "block";
+
+  modalBody.innerHTML = ''; // Clear previous content
+  modalBody.appendChild(clonedSection); // Inject cloned pricing section
+  modal.style.display = "block";
+}
 
   span.onclick = function () {
     modal.style.display = "none";
