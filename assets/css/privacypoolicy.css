@@ -1,0 +1,250 @@
+
+        .PrivacyPolicy-body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .PrivacyPolicy-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .PrivacyPolicy-header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 30px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .PrivacyPolicy-logo {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .PrivacyPolicy-header h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            color: #2d3748;
+        }
+
+        .PrivacyPolicy-last-updated {
+            color: #718096;
+            font-size: 0.9rem;
+            background: #f7fafc;
+            padding: 8px 16px;
+            border-radius: 20px;
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        .PrivacyPolicy-content {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 50px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+        }
+
+        .PrivacyPolicy-intro {
+            font-size: 1.1rem;
+            color: #4a5568;
+            margin-bottom: 40px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f7fafc, #edf2f7);
+            border-radius: 15px;
+            border-left: 5px solid #667eea;
+        }
+
+        .PrivacyPolicy-section {
+            margin-bottom: 50px;
+            padding: 30px;
+            background: linear-gradient(135deg, #ffffff, #f8f9fa);
+            border-radius: 15px;
+            border:1px solid #667eea;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+            transition: all 0.3s ease;
+        }
+
+        .PrivacyPolicy-section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .PrivacyPolicy-section h2 {
+            color: #2d3748;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        .PrivacyPolicy-section h3 {
+            color: #4a5568;
+            font-size: 1.3rem;
+            margin: 25px 0 15px 0;
+        }
+
+        .PrivacyPolicy-section p {
+            margin-bottom: 20px;
+            color: #4a5568;
+            font-size: 1.05rem;
+        }
+
+        .PrivacyPolicy-section ul {
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+
+        .PrivacyPolicy-section li {
+            margin-bottom: 10px;
+            color: #4a5568;
+            position: relative;
+        }
+
+        .PrivacyPolicy-section li::before {
+            content: "•";
+            color: #667eea;
+            font-weight: bold;
+            position: absolute;
+            left: -20px;
+        }
+
+        .PrivacyPolicy-back-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.3);
+            transition: all 0.3s ease;
+            opacity: 0;
+            visibility: hidden;
+        }
+
+        .PrivacyPolicy-back-to-top.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .PrivacyPolicy-back-to-top:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.5);
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .PrivacyPolicy-container {
+                padding: 10px;
+            }
+
+            .PrivacyPolicy-header {
+                padding: 25px;
+            }
+
+            .PrivacyPolicy-logo {
+                font-size: 2rem;
+            }
+
+            .PrivacyPolicy-header h1 {
+                font-size: 1.8rem;
+            }
+
+            .PrivacyPolicy-content {
+                padding: 25px;
+            }
+
+            .PrivacyPolicy-section {
+                padding: 20px;
+                margin-bottom: 30px;
+            }
+
+            .PrivacyPolicy-section h2 {
+                font-size: 1.5rem;
+            }
+            .contact-details {
+                grid-template-columns: 1fr;
+            }
+
+            .PrivacyPolicy-back-to-top {
+                bottom: 20px;
+                right: 20px;
+                width: 50px;
+                height: 50px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .PrivacyPolicy-section p, .PrivacyPolicy-section li {
+                font-size: 1rem;
+            }
+        }
+        .contact-PrivacyPolicy-section {
+            background: #34495e;
+            color: white;
+            padding: 40px;
+            border-radius: 8px;
+            margin-top: 40px;
+            text-align: center;
+        }
+
+        .contact-PrivacyPolicy-section h2 {
+            margin-bottom: 30px;
+            font-size: 2rem;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        .contact-item {
+            text-align: center;
+        }
+
+        .contact-item .icon {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .contact-item a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .contact-item a:hover {
+            text-decoration: underline;
+        }

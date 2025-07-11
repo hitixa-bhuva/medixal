@@ -7861,8 +7861,8 @@ a.ui-button:active,
   gap: 16px;
 }
 .cs_iconbox.cs_style_5 .cs_iconbox_icon {
-  width: 60px;
-  height: 60px;
+  width: 30px;
+  height: 30px;
   -webkit-box-flex: 0;
   -ms-flex: none;
   flex: none;
