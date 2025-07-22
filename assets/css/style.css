@@ -12468,3 +12468,6 @@ Pricing controller
   font-size: 28px;
   cursor: pointer;
 }
+.currentcoloricon{
+  color: #007BFD !important;
+}
