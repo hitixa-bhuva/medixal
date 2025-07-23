@@ -12468,3 +12468,72 @@ Pricing controller
   font-size: 28px;
   cursor: pointer;
 }
+@media (max-width: 430px) {
+  .cs_hero.cs_style_1 .cs_hero_title span {
+    color: var(--accent-color);
+    font-size: 39px !important;
+  }
+      .cs_fs_70 {
+        font-size: 30px !important;
+    }
+}
+/* Hide main nav on mobile */
+.cs_nav {
+  display: none;
+}
+
+@media (max-width: 991px) {
+  .cs_mobile_nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 999;
+    padding: 20px;
+    transition: all 0.3s ease;
+  }
+
+  .cs_mobile_nav.active {
+    display: block;
+  }
+
+  .menu-item-has-children > ul {
+    display: none;
+    padding-left: 15px;
+  }
+
+  .menu-item-has-children > ul.open {
+    display: block;
+  }
+
+  .cs_mobile_toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  /* Override dropdown mega menu */
+  .dropdown-card {
+    position: static !important;
+    display: none !important;
+    background: #f9f9f9;
+    box-shadow: none;
+  }
+
+  .menu-item-has-children > ul.open.dropdown-card {
+    display: block !important;
+  }
+
+  .dropdown-card .row {
+    flex-direction: column;
+  }
+
+  .dropdown-card .col-md-4,
+  .dropdown-card .col-md-8,
+  .dropdown-card .col-md-6 {
+    width: 100%;
+    padding: 10px 0;
+  }
+}
