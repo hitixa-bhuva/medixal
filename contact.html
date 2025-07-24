@@ -39,7 +39,7 @@
   </div>
   <!-- End Preloader -->
   <!-- Start Header Section -->
-  <header class="cs_site_header cs_style_1 cs_sticky_header cs_heading_font cs_heading_color">
+  <header class="cs_site_header cs_style_1 cs_sticky_header cs_heading_font cs_heading_color display-desktop-block">
     <div class="cs_main_header">
       <div class="container-fluid">
         <div class="cs_main_header_in">
@@ -56,45 +56,46 @@
                       <li><a href="doctors.html">Customer experience <i class="fa-solid fa-circle-chevron-right"></i></a>
                         <ul>
                           <li>
-   <a href="index.html#online-booking">
-    <i class="fa-solid fa-calendar-check me-2"></i> Online Booking
-  </a>
-</li>
+                           <a href="index.html#online-booking">
+                            <i class="fa-solid fa-calendar-check me-2"></i> Online Booking
+                          </a>
+                        </li>
 
-<!-- <li>
-  <a href="#BookingWebsite">
-    <i class="fa-solid fa-globe me-2"></i> Booking Website
-  </a>
-</li> -->
+                        <li>
+                          <a href="index.html#Reminders">
+                            <i class="fa-solid fa-bell me-2"></i> Reminders
+                          </a>
+                        </li>
 
-<li>
-  <a href="index.html#Reminders">
-    <i class="fa-solid fa-bell me-2"></i> Reminders
-  </a>
-</li>
+                        <li>
+                          <a href="index.html#Onlinepayments">
+                            <i class="fa-solid fa-credit-card me-2"></i> Online Payments
+                          </a>
+                        </li>
 
-<li>
-  <a href="index.html#Onlinepayments">
-    <i class="fa-solid fa-credit-card me-2"></i> Online Payments
-  </a>
-</li>
+                        <li>
+                          <a href="index.html#BookingLink">
+                            <i class="fa-solid fa-link me-2"></i> Booking Link
+                          </a>
+                        </li>
 
-<li>
-  <a href="index.html#BookingLink">
-    <i class="fa-solid fa-link me-2"></i> Booking Link
-  </a>
-</li>
-
-<li>
-  <a href="index.html#BookingForm">
-    <i class="fa-solid fa-file-lines me-2"></i> Booking Form
-  </a>
-</li>
+                        <li>
+                          <a href="index.html#BookingForm">
+                            <i class="fa-solid fa-file-lines me-2"></i> Booking Form
+                          </a>
+                        </li>
 
                         </ul> 
                       </li>
                       <li><a href="doctors.html">Management experience <i class="fa-solid fa-circle-chevron-right"></i></a>
                         <ul>
+<<<<<<< HEAD
+                          <li>
+                            <a href="doctor-details.html">
+                              <i class="fa-solid fa-calendar-check me-2"></i> Appointment Status Management
+                            </a>
+                          </li>
+=======
                            <!-- <li>
   <a href="doctors.html">
     <i class="fa-solid fa-user-gear me-2"></i> Staff Management
@@ -106,6 +107,7 @@
     <i class="fa-solid fa-calendar-check me-2"></i> Appointment Status Management
   </a>
 </li>
+>>>>>>> 02f50f78c3a4b3ba3016f00927cbcfe467ba32ed
 
                         </ul> 
                       </li>
@@ -221,6 +223,151 @@
       </div>
     </div>
   </header>
+  <div class="display-mobile-block">
+     <!-- Header -->
+    <header class="cs_site_header">
+        <div class="cs_main_header">
+            <div class="cs_main_header_in">
+                <!-- Logo -->
+                <div class="cs_main_header_left">
+                    <a class="cs_site_branding" href="index.html">
+                        <img src="assets/img/logo_black.svg" alt="Logo">
+                    </a>
+                </div>
+
+                <!-- Desktop Navigation -->
+                <nav class="cs_nav_desktop">
+                    <a href="#products">Products</a>
+                    <a href="#solutions">Solutions</a>
+                    <a href="HowItWorks.html">How It Works</a>
+                    <a href="pricing.html">Pricing</a>
+                    <a href="about.html">About Us</a>
+                    <a href="contact.html">Contact Us</a>
+                </nav>
+
+                <!-- Mobile Toggle Button -->
+                <button class="mobile_nav_toggle" onclick="toggleMobileNav()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+
+                <!-- Header Buttons -->
+                <div class="cs_header_buttons">
+                    <button class="custom-sign-upbtn" onclick="window.location.href='sign-up.html'">Sign Up</button>
+                    <a href="login.html" class="cusstom-btn-style">Login</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Mobile Sidebar Overlay -->
+    <div class="mobile_sidebar_overlay" id="mobileOverlay" onclick="closeMobileNav()"></div>
+
+    <!-- Mobile Sidebar -->
+    <div class="mobile_sidebar" id="mobileSidebar">
+        <div class="mobile_sidebar_header">
+            <h3>Menu</h3>
+            <button class="mobile_close_btn" onclick="closeMobileNav()">&times;</button>
+        </div>
+        
+        <div class="mobile_nav_content">
+            <!-- Products -->
+            <div class="mobile_nav_item">
+                <a href="#" class="mobile_nav_link" onclick="toggleSubmenu(event, 'products')">
+                    Products
+                    <span class="arrow">▼</span>
+                </a>
+                <div class="mobile_submenu" id="products">
+                    <div class="mobile_submenu_category">Customer Experience</div>
+                    <div class="mobile_submenu_item">
+                        <a href="index.html#online-booking" class="mobile_submenu_link">Online Booking</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="index.html#Reminders" class="mobile_submenu_link">Reminders</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="index.html#Onlinepayments" class="mobile_submenu_link">Online Payments</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="index.html#BookingLink" class="mobile_submenu_link">Booking Link</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="index.html#BookingForm" class="mobile_submenu_link">Booking Form</a>
+                    </div>
+                    
+                    <div class="mobile_submenu_category">Management Experience</div>
+                    <div class="mobile_submenu_item">
+                        <a href="#" class="mobile_submenu_link">Appointment Status Management</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Solutions -->
+            <div class="mobile_nav_item">
+                <a href="#" class="mobile_nav_link" onclick="toggleSubmenu(event, 'solutions')">
+                    Solutions
+                    <span class="arrow">▼</span>
+                </a>
+                <div class="mobile_submenu" id="solutions">
+                    <div class="mobile_submenu_category">By Business Size</div>
+                    <div class="mobile_submenu_item">
+                        <a href="#" class="mobile_submenu_link">Individuals</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="#" class="mobile_submenu_link">Small Business</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="#" class="mobile_submenu_link">Large Companies</a>
+                    </div>
+
+                    <div class="mobile_submenu_category">By Industry</div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#BeautyWellness" class="mobile_submenu_link">Beauty & Wellness</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#SportsFitness" class="mobile_submenu_link">Sports & Fitness</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#Healthcare" class="mobile_submenu_link">Healthcare</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#ProfessionalServices" class="mobile_submenu_link">Professional Services</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#PublicServices" class="mobile_submenu_link">Public Services</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#Education" class="mobile_submenu_link">Education</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#Photographers" class="mobile_submenu_link">Photographers</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#Retail" class="mobile_submenu_link">Retail</a>
+                    </div>
+                    <div class="mobile_submenu_item">
+                        <a href="Industries.html#EventsEntertainment" class="mobile_submenu_link">Events & Entertainment</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Other Menu Items -->
+            <div class="mobile_nav_item">
+                <a href="HowItWorks.html" class="mobile_nav_link">How It Works</a>
+            </div>
+            <div class="mobile_nav_item">
+                <a href="pricing.html" class="mobile_nav_link">Pricing</a>
+            </div>
+            <div class="mobile_nav_item">
+                <a href="about.html" class="mobile_nav_link">About Us</a>
+            </div>
+            <div class="mobile_nav_item">
+                <a href="contact.html" class="mobile_nav_link">Contact Us</a>
+            </div>
+        </div>
+    </div>
+   </div>
   <!-- End Header Section -->
   <div class="cs_modal_search cs_center">
     <div class="cs_search_overlay cs_header_overlay"></div>
@@ -719,8 +866,10 @@
   <script src="assets/js/ripples.min.js"></script>
   <script src="assets/js/main.js"></script>
   <script src="assets/js/whatsapp.js"></script>
-  <script src="assets/js/pricingmodel.js"></script>
+ <script src="assets/js/pricingmodel.js"></script>
+  <script src="assets/js/sidebar.js"></script>
   <script src="assets/js/whatsapp.js"></script>
-  <script src="assets/js/pricingmodel.js"></script>
+ <script src="assets/js/pricingmodel.js"></script>
+  <script src="assets/js/sidebar.js"></script>
 </body>
 </html>

@@ -9,3 +9,5 @@ function redirectToWhatsApp() {
       encodeURIComponent(message);
     window.open(url, "_blank");
   }
+
+
